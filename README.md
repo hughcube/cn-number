@@ -1,6 +1,6 @@
 <h1 align="center"> cn-number </h1>
 
-<p align="center"> 大写数字.</p>
+cn-number [![Build Status](https://travis-ci.com/hughcube/cn-number.svg?branch=master)](https://travis-ci.com/hughcube/cn-number)
 
 
 ## Installing
