@@ -1,6 +1,6 @@
 <h1 align="center"> cn-number </h1>
 
-cn-number [![Build Status](https://travis-ci.com/hughcube/cn-number.svg?branch=master)](https://travis-ci.com/hughcube/cn-number)
+cn-number [![Build Status](https://travis-ci.com/hughcube/cn-number.svg?branch=1.0)](https://travis-ci.com/hughcube/cn-number)
 
 
 ## Installing
